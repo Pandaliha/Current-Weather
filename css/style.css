@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo|Cabin|Josefin+Sans|Lato|Oswald|Oxygen');
+
+body {
+  background-image: url("http://i.imgur.com/1En7b86.png");
+  background-repeat: no-repeat;
+  background-position: center top; 
+  background-attachment: fixed;
+  background-size: cover;
+  text-shadow: 1px 1px 0 rgba(213, 227, 247, 0.5);
+  text-align: center;
+}
+
+.t1 {
+  color: #00B5FF;
+  text-shadow: 0 0 4px #004866;
+  font-size: 5.6em;
+  font-family: 'Josefin Sans, sans-serif;
+}
+
+footer {
+  font-size: 30px;
+  color: #fff;
+  font-family:  'Josefin Sans', sans-serif;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+h3 {
+  font-family:  'Arimo', sans-serif;
+  font-size: 40px;
+  color: #000;
+}
+
+#1 i {
+  padding: 100px 500px 500px 500px;
+}
+#change, a {
+  color: #FFDE00;
+  text-shadow: 0 0 4px #FF8903;
+}
+a:hover{
+  text-decoration: none;
+  color: #00B5FF;
+}
+
+#main {
+  margin-top:15px;
+  border-radius: 10%;
+  padding: 10px;
+  box-shadow: 0 0 999px #fff;
+}
